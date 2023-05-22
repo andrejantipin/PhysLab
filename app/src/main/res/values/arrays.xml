@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="planets">
+        <item>Земля (9,81 м/с²)</item>
+        <item>Луна (1,62 м/с²)</item>
+        <item>Венера (8,88 м/с²)</item>
+        <item>Уран (8,86 м/с²)</item>
+        <item>Солнце (273,1 м/с²)</item>
+        <item>Марс (3,86 м/с²)</item>
+        <item>Сатурн (10,44 м/с²)</item>
+    </string-array>
+
+    <string-array name="g">
+        <item>9.81</item>
+        <item>1.62</item>
+        <item>8.88</item>
+        <item>8.86</item>
+        <item>273.1</item>
+        <item>3.86</item>
+        <item>10.44</item>
+    </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PhysLab</string>
+    <string name="h0">h0, м</string>
+    <string name="g">g, м/с²</string>
+    <string name="start">Старт</string>
+    <string name="stop">Стоп/Сброс</string>
+    <string name="toast_mes_1">Неверно заданы параметры</string>
+    <string name="time">Время, с:</string>
+    <string name="title">Выбор планеты:</string>
+    <string name="cancel">Отмена</string>
+</resources>
